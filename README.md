@@ -1,6 +1,6 @@
 # これは何
 
-[gulp-assemble]() を試してみた
+[gulp-assemble](https://github.com/assemble/gulp-assemble) を試してみた
 
 ```
 $ npm install
